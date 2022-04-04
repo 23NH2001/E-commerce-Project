@@ -1,0 +1,53 @@
+.pgDetail{
+    /* border: 2px solid red; */
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.box1{
+    margin: 8px 250px;
+    height: 75%;
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: space-around;
+
+}
+.prdImg{
+    display: flex;
+    width: 25%;
+    /* border: 2px solid green; */
+    align-items: center;
+
+}
+.cart{
+    padding: 8px;
+}
+.prdDetail{
+    width: 65%;
+    /* border: 2px solid yellow; */
+    
+}
+.name{
+    height: 35%;
+    
+    /* border: 2px solid black; */
+}
+
+.price{
+    height:40%;
+    /* text-align: center; */
+    /* border: 2px solid black; */
+}
+.addtocart{
+    height: 15%;
+    /* border: 2px solid black ; */
+}
+
+
+.box2{
+    height: 25%;
+    /* border: 2px solid black; */
+
+}
+
